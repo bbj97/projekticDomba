@@ -1,0 +1,11 @@
+C:\Users\Bljeona\source\repos\Finito_App\bin\Debug\Finito_App.exe.config
+C:\Users\Bljeona\source\repos\Finito_App\bin\Debug\Finito_App.exe
+C:\Users\Bljeona\source\repos\Finito_App\bin\Debug\Finito_App.pdb
+C:\Users\Bljeona\source\repos\Finito_App\obj\Debug\Finito_App.csprojAssemblyReference.cache
+C:\Users\Bljeona\source\repos\Finito_App\obj\Debug\Finito_App.Form1.resources
+C:\Users\Bljeona\source\repos\Finito_App\obj\Debug\Finito_App.Properties.Resources.resources
+C:\Users\Bljeona\source\repos\Finito_App\obj\Debug\Finito_App.csproj.GenerateResource.cache
+C:\Users\Bljeona\source\repos\Finito_App\obj\Debug\Finito_App.csproj.CoreCompileInputs.cache
+C:\Users\Bljeona\source\repos\Finito_App\obj\Debug\Finito_App.exe
+C:\Users\Bljeona\source\repos\Finito_App\obj\Debug\Finito_App.pdb
+C:\Users\Bljeona\source\repos\Finito_App\bin\Debug\Database7.accdb
